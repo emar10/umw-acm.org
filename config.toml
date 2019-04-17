@@ -1,0 +1,45 @@
+baseURL = ""
+languageCode = "en-us"
+title = "UMW ACM"
+theme = "hyde-hyde"
+
+[params]
+    highlightjs = true
+    highlightjsstyle = "github"
+    highlightjslanguages = [""]
+    themeColor = "theme-acm"
+
+    title = "UMW ACM"
+    author = "UMW ACM"
+    authorimage = "/images/logo_notext.png"
+
+    copyright = "UMW ACM"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+[params.social]
+
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "News"
+    weight = 200
+    identifier = "news"
+    url = "/news/"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 300
+    identifier = "posts"
+    url = "/posts/"
+
+[[menu.main]]
+    name = "Calendar"
+    weight = 400
+    identifier = "calendar"
+    url = "https://calendar.google.com/calendar/b/1?cid=dW13YWNtQGdtYWlsLmNvbQ"
+
