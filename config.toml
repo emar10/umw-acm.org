@@ -4,6 +4,7 @@ title = "UMW ACM"
 theme = "hyde-hyde"
 
 [params]
+    showBuiltWith = true
     highlightjs = true
     highlightjsstyle = "github"
     highlightjslanguages = [""]
