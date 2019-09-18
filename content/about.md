@@ -4,10 +4,11 @@ type: "about"
 ---
 
 We are the [University of Mary Washington](https://umw.edu) branch of the
-[Association for Computing Machinery](https://www.acm.org), and the
-premiere Computer Science club on campus. We host two yearly events: a
-Hackathon in the Fall semester, and a Programming Contest in conjunction
-with the CS department in the Spring semester.
+[Association for Computing Machinery](https://www.acm.org), and the premiere
+Computer Science club on campus. We host two yearly events: a Hackathon in the
+Fall semester, and a Programming Contest in conjunction with the CS department
+in the Spring semester. We are also working in conjunction with faculty to host
+a programming contest for area high schools in the Spring.
 
 ## Leadership
 
