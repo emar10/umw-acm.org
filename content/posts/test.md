@@ -2,7 +2,7 @@
 title: "Test Post"
 date: 2019-04-08T14:14:34-04:00
 ---
-
+Welcome to the Test Post!
 This is a test post to demonstrate some of Hugo's capabilities. It is adapted
 from John Gruber's Markdown Syntax page
 [here](https://daringfireball.net/projects/markdown/syntax).
